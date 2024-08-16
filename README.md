@@ -1,3 +1,5 @@
+I'm just a student at IFPR who likes automation and wants to learn more about system development.
+The only time success comes before work is in the dictionary.
 <div>
 <a href="https://github.com/WalmonnEduardo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=127001WalmonnEduardo&layout=compact&langs_count=7&theme=dracula"/>
